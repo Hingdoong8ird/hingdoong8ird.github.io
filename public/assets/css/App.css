@@ -11598,6 +11598,10 @@ p {
   color: #fff;
 }
 
+.portfolio-container {
+  display: ruby;
+}
+
 .portfolio .portfolio-container .portfolio-item {
   position: relative;
   padding-left: 0;

@@ -637,16 +637,15 @@ function App() {
               <div className="portfolio-container">
                 <div className="col-md-6 col-lg-4 web new">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/web-1.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
+                    <a className="img-popup" href="./assets/imgs/web-1.jpg">
+                      <img
+                        src="./assets/imgs/web-1.jpg"
+                        className="img-fluid"
+                        alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                      />
+                    </a>
+
                     <div className="content-holder">
-                      <a
-                        className="img-popup"
-                        // href="/assets/imgs/web-1.jpg"
-                      ></a>
                       <div className="text-holder">
                         <h6 className="title">WEB</h6>
                         <p className="subtitle">
@@ -658,16 +657,15 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 web new">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/web-2.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
+                    <a className="img-popup" href="./assets/imgs/web-2.jpg">
+                      <img
+                        src="./assets/imgs/web-2.jpg"
+                        className="img-fluid"
+                        alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                      />
+                    </a>
+
                     <div className="content-holder">
-                      <a
-                        className="img-popup"
-                        // href="/assets/imgs/web-2.jpg"
-                      ></a>
                       <div className="text-holder">
                         <h6 className="title">WEB</h6>
                         <p className="subtitle">
@@ -679,16 +677,18 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 advertising new">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/advertising-2.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
+                    <a
+                      className="img-popup"
+                      href="./assets/imgs/advertising-2.jpg"
+                    >
+                      <img
+                        src="./assets/imgs/advertising-2.jpg"
+                        className="img-fluid"
+                        alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                      />
+                    </a>
+
                     <div className="content-holder">
-                      <a
-                        className="img-popup"
-                        // href="/assets/imgs/advertising-2.jpg"
-                      ></a>
                       <div className="text-holder">
                         <h6 className="title">ADVERSTISING</h6>
                         <p className="subtitle">
@@ -700,16 +700,15 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 web">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/web-4.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
+                    <a className="img-popup" href="./assets/imgs/web-4.jpg">
+                      <img
+                        src="./assets/imgs/web-4.jpg"
+                        className="img-fluid"
+                        alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                      />
+                    </a>
+
                     <div className="content-holder">
-                      <a
-                        className="img-popup"
-                        // href="/assets/imgs/web-4.jpg"
-                      ></a>
                       <div className="text-holder">
                         <h6 className="title">WEB</h6>
                         <p className="subtitle">
@@ -722,16 +721,17 @@ function App() {
 
                 <div className="col-md-6 col-lg-4 advertising">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/advertising-1.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
                     <div className="content-holder">
                       <a
                         className="img-popup"
-                        // href="/assets/imgs/advertising-1.jpg"
-                      ></a>
+                        href="./assets/imgs/advertising-1.jpg"
+                      >
+                        <img
+                          src="./assets/imgs/advertising-1.jpg"
+                          className="img-fluid"
+                          alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                        />
+                      </a>
                       <div className="text-holder">
                         <h6 className="title">ADVERSITING</h6>
                         <p className="subtitle">
@@ -743,16 +743,14 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 web new">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/web-3.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
                     <div className="content-holder">
-                      <a
-                        className="img-popup"
-                        href="/assets/imgs/web-3.jpg"
-                      ></a>
+                      <a className="img-popup" href="./assets/imgs/web-3.jpg">
+                        <img
+                          src="./assets/imgs/web-3.jpg"
+                          className="img-fluid"
+                          alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                        />
+                      </a>
                       <div className="text-holder">
                         <h6 className="title">WEB</h6>
                         <p className="subtitle">
@@ -764,16 +762,17 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 advertising new">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/advertising-3.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
                     <div className="content-holder">
                       <a
                         className="img-popup"
-                        href="/assets/imgs/advertising-3.jpg"
-                      ></a>
+                        href="./assets/imgs/advertising-3.jpg"
+                      >
+                        <img
+                          src="./assets/imgs/advertising-3.jpg"
+                          className="img-fluid"
+                          alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                        />
+                      </a>
                       <div className="text-holder">
                         <h6 className="title">ADVERSITING</h6>
                         <p className="subtitle">
@@ -785,16 +784,17 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 advertising new">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/advertising-4.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
                     <div className="content-holder">
                       <a
                         className="img-popup"
-                        href="/assets/imgs/advertising-4.jpg"
-                      ></a>
+                        href="./assets/imgs/advertising-4.jpg"
+                      >
+                        <img
+                          src="./assets/imgs/advertising-4.jpg"
+                          className="img-fluid"
+                          alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                        />
+                      </a>
                       <div className="text-holder">
                         <h6 className="title">ADVERTISING</h6>
                         <p className="subtitle">
@@ -806,16 +806,17 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 branding new">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/branding-1.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
                     <div className="content-holder">
                       <a
                         className="img-popup"
-                        href="/assets/imgs/branding-1.jpg"
-                      ></a>
+                        href="./assets/imgs/branding-1.jpg"
+                      >
+                        <img
+                          src="./assets/imgs/branding-1.jpg"
+                          className="img-fluid"
+                          alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                        />
+                      </a>
                       <div className="text-holder">
                         <h6 className="title">BRANDING</h6>
                         <p className="subtitle">
@@ -827,16 +828,17 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 branding">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/branding-2.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
+                    <a
+                      className="img-popup"
+                      href="./assets/imgs/branding-2.jpg"
+                    >
+                      <img
+                        src="./assets/imgs/branding-2.jpg"
+                        className="img-fluid"
+                        alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                      />
+                    </a>
                     <div className="content-holder">
-                      <a
-                        className="img-popup"
-                        href="/assets/imgs/branding-2.jpg"
-                      ></a>
                       <div className="text-holder">
                         <h6 className="title">BRANDING</h6>
                         <p className="subtitle">
@@ -848,16 +850,18 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 branding new">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/branding-3.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
+                    <a
+                      className="img-popup"
+                      href="./assets/imgs/branding-3.jpg"
+                    >
+                      <img
+                        src="./assets/imgs/branding-3.jpg"
+                        className="img-fluid"
+                        alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                      />
+                    </a>
+
                     <div className="content-holder">
-                      <a
-                        className="img-popup"
-                        href="/assets/imgs/branding-3.jpg"
-                      ></a>
                       <div className="text-holder">
                         <h6 className="title">BRANDING</h6>
                         <p className="subtitle">
@@ -869,16 +873,18 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 branding">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/branding-4.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
+                    <a
+                      className="img-popup"
+                      href="./assets/imgs/branding-4.jpg"
+                    >
+                      <img
+                        src="./assets/imgs/branding-4.jpg"
+                        className="img-fluid"
+                        alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                      />
+                    </a>
+
                     <div className="content-holder">
-                      <a
-                        className="img-popup"
-                        href="/assets/imgs/branding-4.jpg"
-                      ></a>
                       <div className="text-holder">
                         <h6 className="title">BRANDING</h6>
                         <p className="subtitle">
@@ -890,16 +896,18 @@ function App() {
                 </div>
                 <div className="col-md-6 col-lg-4 branding">
                   <div className="portfolio-item">
-                    <img
-                      src="/assets/imgs/branding-5.jpg"
-                      className="img-fluid"
-                      alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
-                    />
+                    <a
+                      className="img-popup"
+                      href="./assets/imgs/branding-5.jpg"
+                    >
+                      <img
+                        src="./assets/imgs/branding-5.jpg"
+                        className="img-fluid"
+                        alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates"
+                      />
+                    </a>
+
                     <div className="content-holder">
-                      <a
-                        className="img-popup"
-                        href="/assets/imgs/branding-5.jpg"
-                      ></a>
                       <div className="text-holder">
                         <h6 className="title">BRANDING</h6>
                         <p className="subtitle">
@@ -923,7 +931,7 @@ function App() {
               <div className="blog-card">
                 <div className="img-holder">
                   <img
-                    src="/assets/imgs/blog1.jpg"
+                    src="./assets/imgs/blog1.jpg"
                     alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page"
                   />
                 </div>
@@ -968,7 +976,7 @@ function App() {
               <div className="blog-card">
                 <div className="img-holder">
                   <img
-                    src="/assets/imgs/blog2.jpg"
+                    src="./assets/imgs/blog2.jpg"
                     alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page"
                   />
                 </div>
@@ -1008,7 +1016,7 @@ function App() {
               <div className="blog-card">
                 <div className="img-holder">
                   <img
-                    src="/assets/imgs/blog3.jpg"
+                    src="./assets/imgs/blog3.jpg"
                     alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page"
                   />
                 </div>
