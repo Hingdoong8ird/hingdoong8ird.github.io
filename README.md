@@ -2,6 +2,6 @@
 
 힝둥새의 블로그 hdbb
 
-hingdoonBird.github.io
+hingdoongBird.github.io
 
-### https://hingdoonBird.github.io/
+### https://hingdoongBird.github.io/
